@@ -11,7 +11,7 @@ public class ContainsDuplicate {
 
 	public boolean hasDuplicate(int[] nums) {
 
-		Set<Integer> seen = new HashSet<>();
+		Set<Integer> seen = new HashSet<>();  // using hashset because not contains duplicates value
 
 		for (int num : nums) {
 			if (seen.contains(num)) {
@@ -25,10 +25,10 @@ public class ContainsDuplicate {
 
 	public static void main(String[] args) {
 		try {
-			int[] nums = { 1, 2, 3, 4 };
+			int[] nums = { 1, 2, 3, 4};
 			ContainsDuplicate obj = new ContainsDuplicate();
 			boolean result = obj.hasDuplicate(nums);
-			System.out.println(result);
+			System.out.println("Contains Duplicates? -> "+result);    // true-> duplicate array prenet & false-> duplicate array not presnt 
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
