@@ -15,7 +15,7 @@ public class MinMaxInArray {
 			}
 
 			if (arr[i] > max) {
-				max = arr[i];  	// man value store in man 
+				max = arr[i];  	// max value store in man 
 
 			}
 
