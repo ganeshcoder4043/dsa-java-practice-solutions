@@ -1,4 +1,4 @@
-package dsa.solveDSA;
+package dsa.solveDSA.LeetCodeProblems;
 
 import java.util.Arrays;
 

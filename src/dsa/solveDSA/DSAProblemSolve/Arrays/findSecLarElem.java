@@ -62,7 +62,7 @@ public class findSecLarElem {
 				secondMax=max;
 				max=arr[i];
 			}
-			else if(arr[i]>secondMax && arr[i]!=max)
+			else if(arr[i]>secondMax && arr[i]!=max) // Skip duplicate largest number
 			{
 				thirdMax=secondMax;
 				secondMax=arr[i];
