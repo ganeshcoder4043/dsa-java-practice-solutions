@@ -19,7 +19,7 @@ public class findSecLarElem {
 
 		
 		
-		 
+	    // Find Second Largest Num Value From Given Arrays ->
 		 // interview level apporach (Efficient Approach )
 		 
 //		int[] arr = {1,9,5,69,8,20,67,67,54,0,69,59,49,67,69,};
@@ -39,14 +39,13 @@ public class findSecLarElem {
 //		}
 //		System.out.println("Largest Number from Given Arrays-> "+max);
 //		System.out.println("Second Largest Number from Given Arrays-> "+secondMax);
-		
+//		
 		
 		
 //	             -----****--------*******----------*********---------
 		
 		
 		// Find Third Largest Num Value From Given Arrays ->
-		
 		
 		int[] arr = {1,9,5,8,20,67,67,54,0,69,59,49,67};
 		

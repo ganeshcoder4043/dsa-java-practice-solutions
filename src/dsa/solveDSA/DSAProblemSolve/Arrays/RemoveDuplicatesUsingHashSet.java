@@ -16,7 +16,8 @@ public class RemoveDuplicatesUsingHashSet {
 		}
 		System.out.println(set);
 		
-		
+	}
+}
 
 		// => Remove Duplicates Arrays
 		// => USING OF LOOP , AND using of hashset
@@ -40,6 +41,6 @@ public class RemoveDuplicatesUsingHashSet {
 //		}
 		
 		
-	}
-
-}
+//	}
+//
+//}

@@ -8,7 +8,7 @@ public class CountFrequencyElementUsingMap {
 		// Count Frequency of Each Element in an Array
 		// that means -> arrays me kitne repeated element hai like 1=3times, 5=2times
 		// ,9=1times.
-		// USING MAP TO SOLVE THIS
+		// USING HASHMAP TO SOLVE THIS
 
 		int[] arr = { 1, 5, 1, 9, 5, 1 };
 

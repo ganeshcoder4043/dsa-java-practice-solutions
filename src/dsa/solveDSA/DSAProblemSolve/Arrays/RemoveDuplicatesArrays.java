@@ -6,7 +6,7 @@ public class RemoveDuplicatesArrays {
 
 	public static void main(String[] args) {
 		// => Remove Duplicates Arrays
-		// => USING OF LOOP , AND using of hashset
+		// => USING OF LOOP , AND WE HAVE TO ANOTHER OPTION TO SOVLE USING HASHSET
 
 		int[] arr = { 1, 5, 1, 9, 5, 1 };
 
