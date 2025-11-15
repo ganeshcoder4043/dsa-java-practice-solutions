@@ -23,14 +23,14 @@ public class ReverseString {
 		
 		//=> using .reverse() method
 		String str2 = "ganesh";
-		StringBuilder sb = new StringBuilder(str);
+		StringBuilder sb = new StringBuilder(str2);
 		System.out.println("using .reverse() method :-> "+sb.reverse());
 		System.out.println();
 		
 		
 		//=> Approach 2 — Two Pointer (Interview Favorite)
 		String str3 = "ganesh";
-		char[] chars =str.toCharArray();
+		char[] chars =str3.toCharArray();
 		
 		int left =0;
 		int right = chars.length-1;

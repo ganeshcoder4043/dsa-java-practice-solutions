@@ -30,7 +30,6 @@ public class CheckPalindrome {
 		
 		//=> Approach 2 — Two Pointer (Interview Favorite)
 		
-		
 		String str2 ="hello";
 		
 		int left=0;
@@ -52,8 +51,5 @@ public class CheckPalindrome {
 		}else {
 			System.out.println(str2 + " is NOT a Palindrome");
 		}
-		
-		
 	}
-
 }
