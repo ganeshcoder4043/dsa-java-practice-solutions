@@ -2,9 +2,11 @@ package dsa.coreJavaConcepts.arrays.question;
 
 public class Demo {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	static void message() {
+		System.out.println("hello ganesh");
 	}
+    public static void main(String[] args) {
 
+    		Demo.message();
+    }
 }
